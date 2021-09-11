@@ -1,4 +1,10 @@
-# Links
+# Blog Frontend 
+
+A blog Frontend made using react which renders a blog page where data is fetched from backend server hosted on [heroku](https://nameless-sands-08216.herokuapp.com/blogs)
+
+# Link
+[heroku](https://nameless-sands-08216.herokuapp.com/blogs)
+[Netlify](https://flamboyant-jepsen-e24504.netlify.app/)
 
 # Getting Started with Create React App
 
