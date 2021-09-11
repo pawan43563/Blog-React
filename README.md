@@ -1,6 +1,6 @@
 # Blog Frontend 
 
-A blog Frontend made using react which renders a blog page where data is fetched from backend server hosted on [heroku](https://nameless-sands-08216.herokuapp.com/blogs)
+A blog Frontend made using react which renders a blog page where data is fetched from backend server hosted on [heroku](https://nameless-sands-08216.herokuapp.com/blogs).
 
 # Link
 [heroku](https://nameless-sands-08216.herokuapp.com/blogs)
@@ -9,6 +9,19 @@ A blog Frontend made using react which renders a blog page where data is fetched
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Downloading and Running this Project Locally
+
+1. clone the repository
+```
+git clone https://github.com/pawan43563/Blog-React.git
+```
+
+2. change directory to `cd Blog-React`
+
+3. run command `npm install` to install all dependencies
+
+
 
 ## Available Scripts
 
